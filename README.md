@@ -46,3 +46,7 @@ The size of the array is manually adjusted after each insert or delete.
 The program works well for learning array basics and understanding how to manage array elements.
 
 This program is a simple but effective demonstration of how arrays work and how to perform dynamic changes using basic C code.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/1dc9aa6d-8eea-4f82-8a48-9b5b797ed57e)
